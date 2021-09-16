@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.exe
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.deps.json
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.runtimeconfig.json
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.dll
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\bin\Debug\netcoreapp3.1\Week3Excercises.pdb
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.dll
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.pdb
+C:\Users\opilane\source\repos\LogITpe21\Week3Excercises\Week3Excercises\obj\Debug\netcoreapp3.1\Week3Excercises.genruntimeconfig.cache
